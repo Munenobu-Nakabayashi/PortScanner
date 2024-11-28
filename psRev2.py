@@ -48,4 +48,4 @@ def main():
 main()
 
 f.close()
-os.chdir(pwd)
+os.chdir(cwd)
